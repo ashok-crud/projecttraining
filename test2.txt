@@ -1,0 +1,7 @@
+<html>
+  <head>
+    <title> Training 2 </title>
+  </head>
+  <body>
+  </body>
+</html>
